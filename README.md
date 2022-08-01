@@ -5,4 +5,4 @@ The initial interface of the product is shown below: <br>
 ![Initial GUI](Decipher_Img/Decipher_Img_1.PNG)
 
 After having uploaded the image, this is how the final results look like: <br>
-![Final Results](Decipher_Img/Decipher_Img_1.PNG)
+![Final Results](Decipher_Img/Decipher_Img_2.PNG)
